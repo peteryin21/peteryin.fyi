@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 
 [params]
-  copyright = "Copyright © 2020 Peter Yin"
+  copyright = "© 2021"
   dark = "off"
   highlight = true
 
@@ -17,7 +17,7 @@ pygmentsUseClasses = true
     identifier = "posts"
     name = "posts"
     title = "posts"
-    url = "/"
+    url = "/posts"
     weight = 10
 
   [[menu.main]]
