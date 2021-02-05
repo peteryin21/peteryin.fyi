@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Peter Yin</title>
+    <link>http://peteryin.fyi/</link>
+    <description>Recent content in Home on Peter Yin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Feb 2021 23:37:40 -0800</lastBuildDate>
+    
+	<atom:link href="http://peteryin.fyi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>My Post</title>
+      <link>http://peteryin.fyi/my-post/</link>
+      <pubDate>Thu, 04 Feb 2021 23:37:40 -0800</pubDate>
+      
+      <guid>http://peteryin.fyi/my-post/</guid>
+      <description>This is it! The first post! Woohoo I did it!</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
