@@ -6,7 +6,7 @@ Hi, I'm Peter!
 
 I'm a Biologist turned Software Engineer living in San Francisco.
 
-**Currently**, I work at Zymergen writing softare to control a automated biology lab. Right now, I am taking a few months of part-time to explore and create.
+**Currently**, I work at Zymergen writing software to control an automated biology lab. Right now, I am taking a few months of part-time to explore and create.
 
 **Previously**, I was at Transcriptic (now Strateos), studied Biology at Penn, and did research in computational genetics and synthetic biology.
 
