@@ -5,27 +5,20 @@ theme = "etch"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-
+googleAnalytics = "G-VLGE1F43TJ"
 
 [params]
-  copyright = "© 2021"
   dark = "off"
+  copyright = "© 2021. Site powered by Hugo and the Etch theme"
   highlight = true
 
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "posts"
-    url = "/posts"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
-    weight = 20
+#[menu]
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "posts"
+#    title = "posts"
+#    url = "/posts"
+#    weight = 10
 
 [permalinks]
   posts = "/:title/"
