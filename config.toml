@@ -5,7 +5,7 @@ theme = "etch"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-googleAnalytics = "G-VLGE1F43TJ"
+googleAnalytics = "UA-88927622-3"
 
 [params]
   dark = "off"
