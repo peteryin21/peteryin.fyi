@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://peteryin.fyi/</loc>
+    <lastmod>2021-02-13T11:35:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://peteryin.fyi/nobody-told-me/</loc>
+    <lastmod>2021-02-13T11:35:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://peteryin.fyi/posts/</loc>
+    <lastmod>2021-02-13T11:35:46-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peteryin.fyi/about/</loc>
   </url>
   
   <url>
     <loc>http://peteryin.fyi/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://peteryin.fyi/</loc>
   </url>
   
   <url>
