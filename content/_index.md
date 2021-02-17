@@ -10,7 +10,7 @@ I'm a Biologist turned Software Engineer living in San Francisco.
 
 **Previously**, I was at Transcriptic (now Strateos), studied Biology at Penn, and did research in computational genetics and synthetic biology.
 
-**For fun**, I enjoy making videos, swing dancing (back in the day), freestyle rapping, deep conversations, and self-relfection.
+**For fun**, I enjoy making videos, swing dancing (back in the day), freestyle rapping, deep conversations, and self-reflection.
 
 **I want to learn more about**: starting a company, making a bootstrapped software product, music production, acting, local politics, science + research, creating a community, stand-up comedy, essay writing.
 
