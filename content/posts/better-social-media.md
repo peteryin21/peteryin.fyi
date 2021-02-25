@@ -12,7 +12,9 @@ Between the negative impacts on mental health, the spread of disinformation, and
 
 Thankfully, this visibility has also led to more awareness. At the end of _The Social Dilemma_, several countermeasures are recommended, including turning off notifications, uninstalling apps, and thinking twice before sharing clickbait material. There are now [browser extensions](https://www.hidefeed.com/) that will block recommendations and news feeds, and instead encourage intentional browsing.
 
-These are all great, but they are only temporary patches. We can only work around a broken system for so long. For a lasting change, we need to rethink the system itself. There has been some discussion around this, such as this [twitter thread](https://twitter.com/cwarzel/status/1278116194621419520) of what a better social network would look like, and [this guide](https://www.humanetech.com/technologists) to human-centric principles for new technologists. But most of the discussion has been at a high level. For meaningful progress, we need to get specific. What would social media look like if it were designed today? What features should we add or remove? How do we build something that users want AND is good for them? To explore these questions, I’ll start with the user I know best - myself.
+These are all great, but they are only temporary patches. We can only work around a broken system for so long. For a lasting change, we need to rethink the system itself. There has been some discussion around this, such as this [twitter thread](https://twitter.com/cwarzel/status/1278116194621419520) of what a better social network would look like, and [this guide](https://www.humanetech.com/technologists) to human-centric principles for new technologists. But most of the discussion has been at a high level. For meaningful progress, we need to get specific.
+
+What would social media look like if it were designed today? What features should we add or remove? How do we build something that users want AND is good for them? To explore these questions, I’ll start with the user I know best - myself.
 
 **How would I design the ideal social media for me, knowing what I know today?**
 
