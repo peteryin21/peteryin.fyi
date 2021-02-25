@@ -78,3 +78,5 @@ This particular thought experiment focuses on the aspects of social media that p
 ## Conclusion
 
 Social media is ripe for an evolution. Let’s use the lessons of hindsight and our personal experiences to re-imagine what a wholesome social internet looks like. Then let’s make it happen.
+
+_Thanks to [Alexey Guzey](https://guzey.com) and Kathleen Sun for reviewing drafts of this essay_
