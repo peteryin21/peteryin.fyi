@@ -70,16 +70,13 @@ From Peterson:
 > The right way to decrease your neuroticism is to increase your conscientiousness... so I would say... Clean your room. Organize your life. Get a routine. Get up everyday at the same time. Go to bed at the same time. [make a] Schedule... Sit down, open the calendar... and design a week of days I'd really like to have.
 
 You should establish routines and rituals that are meaningful enough to provide value, but not too bloated to become burdensome.
-For me, the most useful practice I started was scheduling out my week and days in detail.
-Each week, I will open up my "Weekly Planning Page" in Notion and write a few sentences with intentions and goals for the week, and then sketch a rough outline of what I need to do to accomplish my goals and feel proud of the week.
+For me, the most useful practice I started was scheduling out my week and days.
 
-[Photo]
+Each week, I open up my "Weekly Planning Page" in Notion and write a few sentences with intentions and goals for the week. Each day, I create an hour by hour schedule in my physical notebook to achieve those goals, and my best to follow the schedule without being too hard on myself.
 
-Each day, I will open my physical notebook and jot down every hour of the day down the left side of the page. Based on the meetings I have for the day and the goals sketched out in my weekly outline, I will mark down how I will spend each hour. I do my best to follow the schedule, but remain flexible enough to modify as these comes up without being too hard on myself.
-
-[Photo]
-
-> Be regular and orderly in your life, so that you may be violent and original in your work." - Gustave Flaubert
+> Be regular and orderly in your life, so that you may be violent and original in your work."
+>
+> -Gustave Flaubert
 
 I've also found that a very simple morning routine helps. (footnote fun fact I made a parody of when morning routines are taken too far.) My current one is
 
@@ -104,9 +101,3 @@ This tip is inspired from my experience working through the [Self Authoring prog
 ## Conclusion
 
 It feels a bit strange writing this post because I feel like I haven't mastered my own advice: I still have bouts of indecision, some days I fall off of my routine, and some weeks I lose sight of the big picture. Now that I have a stronger foundation in software, I am now starting to branch out and explore creative pursuits again- writing, starting a company, making videos. I still feel the same challenges as I did before, but now I'm more equipped to handle them. Life may not get easier, but with the right tools, we can be better prepared to show up every day and get it done.
-
-TODO:
-
-- css widen column on computer
-- format block quotes nicer
-- add more space after headers
