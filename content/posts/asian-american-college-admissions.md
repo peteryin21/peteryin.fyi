@@ -10,7 +10,7 @@ draft: false
 
 The Asian American experience is having its moment in the spotlight. I'm personally encouraged by the increased attention towards a group that usually suffers in silence and is often overlooked in conversations about racial justice. But while there are several important conversations happening, I can't help but notice one glaring omission from the conversation: college admissions.
 
-This a touchy subject. But for many of the hundreds of thousands of Asian high schoolers who apply for colleges every year, it's part of their lived experience. There's an unspoken understanding that if you're Asian American the odds are stacked against you. Rather than rely on anecdotal evidence, I decided to dig a little deeper into the evidence
+This a touchy subject. But for many of the hundreds of thousands of Asian high schoolers who apply for colleges every year, it's part of their lived experience. There's an unspoken understanding that if you're Asian American the odds are stacked against you. Rather than rely on anecdotal evidence, I decided to dig a little deeper into the evidence.
 
 It turns out that it is really difficult to get concrete numbers on internal admissions statistics because most universities aren't transparent. This may explain why a lot of the claims of Asian discrimination come from observations of student demographics over time (e.g UC schools seeing a spike of Asian Americans after California banned affirmative action, Ivy League schools maintaining relatively constant Asian American population despite the general Asian population increasing).
 
@@ -57,7 +57,7 @@ Let's explore some of the possible explanations.
 
 As distasteful as this sounds, for the sake of argument we should address this possibility. Thankfully we don't have to dig too deep to refute it.
 
-Alumni interviewers, who unlike the admission office reviewers actually meet applicants in person, gave Asian applicants some of the highest personal scores of any racial group
+Alumni interviewers, who unlike the admission office reviewers actually meet applicants in person, gave Asian applicants some of the highest personal scores of any racial group.
 
 {{< figure src="/asian-alumni-rating.png" title="Despite receiving lowest personal ratings from admissions officers (red box), Asian Americans receive among the highest personal ratings from Alumni interviews (blue box)" >}}
 
@@ -67,9 +67,9 @@ Harvard admissions officers themselves dispute this claim. From Arcidiacono's re
 
 > The testimony from officers and leaders of the Admissions Office is that there is nothing about Asian Americans as a group that would suggest they have less attractive personal qualities.
 
-**2. Reviewers have unconscious negative bias towards Asian applicants**
+**2. Reviewers have a negative bias towards Asian applicants**
 
-This is certainly possible, but unless on average the admission office is more subconsciously racist than the alumni interviewers, then I wouldn't expect a discrepancy in the personal score between them.
+This is certainly possible, but unless on average the admission office is more biased than the alumni interviewers, then I wouldn't expect a discrepancy in the personal score between them.
 
 I _could_ imagine that reviewing an Asian applicant as a piece of paper rather than as a person can make reviewers prone to negatively weigh their personality: _"Oh, just another Asian, perfect SAT, wants to be a doctor..."_
 
